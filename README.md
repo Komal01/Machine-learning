@@ -1,5 +1,5 @@
 
-This repository consists of beginner level machine learning projects created using scikit learn. 
+This repository contains curated lists of beginner level machine learning projects implemented using scikit learn and pandas. 
 
 			 		
 			 
